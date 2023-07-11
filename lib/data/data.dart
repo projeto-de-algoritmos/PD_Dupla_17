@@ -7,7 +7,7 @@ List<String> palavrasDireita = [
   'família',
   'ordem',
   'propriedade',
-  'livre mercado',
+  'mercado',
 ];
 
 List<String> palavrasEsquerda = [
@@ -20,7 +20,7 @@ List<String> palavrasEsquerda = [
   'coletivo',
   'redistribuição',
   'sustentabilidade',
-  ' social',
+  'social',
 ];
 List<String> palavrasCentro = [
   'oportunidade',
