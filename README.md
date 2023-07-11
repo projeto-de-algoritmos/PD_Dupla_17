@@ -14,6 +14,11 @@
 ## Sobre 
 Wizard Guesser é um app que lida com o algoritmo de sequenceAlignment para lidar com o texto que o usuário insere e os dados de outras palavras que estão diretamente relacionadas com discursos politicos de direita, esquerda ou centro, assim conseguimos identifica a opinião que o usuário tenta espressar mesmo que algumas palavras estejam escritas incorretamente.
 
+## Video
+
+Para ver o Video pasta clicar nesse link: [![Video](https://img.youtube.com/vi/2Cx2zB1Vhfs/0.jpg)](https://youtu.be/2Cx2zB1Vhfs)
+
+
 
 ## Limitações
 
