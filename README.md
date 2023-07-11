@@ -16,7 +16,7 @@ Wizard Guesser é um app que lida com o algoritmo de sequenceAlignment para lida
 
 ## Video
 
-Para ver o Video pasta clicar nesse link: [![Video](https://img.youtube.com/vi/2Cx2zB1Vhfs/0.jpg)](https://youtu.be/2Cx2zB1Vhfs)
+[![Video](https://img.youtube.com/vi/2Cx2zB1Vhfs/0.jpg)](https://youtu.be/2Cx2zB1Vhfs)
 
 
 
