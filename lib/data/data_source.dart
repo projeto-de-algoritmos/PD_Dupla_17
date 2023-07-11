@@ -84,7 +84,6 @@ class DataSource {
     }
 
     final direitaMatches = betterMatches.where((element) {
-      print(element);
       return element.politicianOption == PoliticianOption.direita;
     }).length;
     final esquerdaMatches = betterMatches
